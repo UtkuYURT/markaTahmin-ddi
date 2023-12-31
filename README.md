@@ -38,9 +38,9 @@ Veri seti oluşturulduktan sonra modelin daha iyi çalışması ve başarı oran
 
 ##### Modelin Oluşturulması ve İlanların Kategorilendirilmesi
 ###### Model Seçimi
-Yapılacak sınıflandırma işleminin hangi modelde daha yüksek başarı oranı vereceğini tespit etmek amacıyla araştırma yapılıp aynı zamanda bazı modeller üzerinde de test edilmiştir.2 model üzerinde denemeler yapılmıştır. Bu modeller Naive bayes ve Decision Tree modelleridir. Projedeki test veri seti sonuçlarına bakıldığında;
-  Naive Bayes Modeli Başarısı:0.651
-  Decision Tree Modeli Başarısı:0.7889
+Yapılacak sınıflandırma işleminin hangi modelde daha yüksek başarı oranı vereceğini tespit etmek amacıyla araştırma yapılıp aynı zamanda bazı modeller üzerinde de test edilmiştir.2 model üzerinde denemeler yapılmıştır. Bu modeller Naive bayes ve Decision Tree modelleridir. Projedeki test veri seti sonuçlarına bakıldığında;  
+  Naive Bayes Modeli Başarısı:0.651  
+  Decision Tree Modeli Başarısı:0.7889  
 Sonuçlar incelendiğinde Decision Tree modelinin projede kullanılan veri seti için daha doğru sonuç verdiği görülmüştür bu yüzden projeyi Decision Tree modeli üzerinde yapmaya karar verdik.
 
 ##### Modelin Oluşturulmaya Başlanması
